@@ -1,0 +1,19 @@
+{
+    "name": "colorpalletpicker",
+    "version": "1.0.0",
+    "description": "A color picker of colorspace",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "color",
+        "space",
+        "pallet"
+    ],
+    "author": "Brennon Gabriel de Oliveira",
+    "license": "ISC",
+    "dependencies": {
+        "puppeteer": "^10.4.0"
+    }
+}
